@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">⚡19 years old<br>🌱 I'm currently studying Systems Engineering (I love learning new stuff and solving new problems!)<br>❓ FUN FACT, my nickname is a slightly modified anagram of Santi (santi » snati » snatty)</p>
+<p align="left">⚡19 years old<br>🌱 I'm currently studying Systems Engineering (I love learning new stuff and solving new problems!)<br>❓ FUN FACT, my nickname is a slightly modified anagram of Santi (santi » snati » snatty) 🪷 </p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">We could say that i love everything tech related! <br>But, we can focus on:<br>> Cybersecurity (isn't all of the security stuff amazing?)<br>> PC building (i've spent a lot learning about it so i could make my first PC!)<br>> Gaming (not only playing!)</p>
+<p align="left">💐 We could say that i love everything tech related! <br>But, we can focus on:<br>🌸 Cybersecurity (isn't all of the security stuff amazing?)<br>🌼 PC building (i've spent a lot learning about it so i could make my first PC!)<br>🌻 Gaming (not only playing!)</p>
 
 ###
 
