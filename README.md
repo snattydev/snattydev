@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">⚡19 years old<br>🌱 I'm currently studying Systems Engineering (I love learning new stuff and solving new problems!)<br>❓ FUN FACT, my nickname is a slightly modified anagram of Santi (santi » snati » snatty) 🪷 </p>
+<p align="left">⚡ 19 years old<br>🌱 I'm currently studying Systems Engineering (I love learning new stuff and solving new problems!)<br>❓ FUN FACT, my nickname is a slightly modified anagram of Santi (santi » snati » snatty) 🪷 </p>
 
 ###
 
