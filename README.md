@@ -31,7 +31,8 @@
 <p align="left">💐 We could say that i love everything tech related!
 <br>But, we can focus on:
 <br>🌸 Cybersecurity (isn't all of the security stuff amazing?)
-<br>🌼 PC building (i've spent a lot learning about it so i could make my first PC!)
+<br>🏠 Homelabbing and Networking (love tinkering around)
+<br>🌼 PC building (i've spent a lot learning about it so i could build my first PC!)
 <br>🌻 Gaming (not only playing!)</p>
 
 ###
