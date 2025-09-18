@@ -32,7 +32,7 @@
 <br>But, we can focus on:
 <br>🌸 Cybersecurity (isn't all of the security stuff amazing?)
 <br>🏠 Homelabbing and Networking (love tinkering around)
-<br>🌼 PC building (i've spent a years researching about so i could build my first PC!)
+<br>🌼 PC building (i've spent years researching about so i could build my first PC!)
 <br>🌻 Gaming (not only playing!)</p>
 
 ###
