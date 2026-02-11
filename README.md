@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">🐼​ Hey! I'm snatty</h1>
+<h1 align="left">🐼​ Hey! snatty here</h1>
 
 ###
 
@@ -15,8 +15,9 @@
 ###
 
 <p align="left">⚡ 19 years old
-<br>🌱 I'm currently studying Systems Engineering (I love learning new stuff and solving new problems!)
+<br>🌱 I'm currently studying Systems Engineering, because i love learning and solving new problems! I think i'm like this because i selftaught a lot of my prior knowledge 🤓
 <br>❓ FUN FACT, my nickname is a slightly modified anagram of Santi (santi » snati » snatty) 🪷 </p>
+<br>❤️ I love Open Source & Descentralization
 
 ###
 
@@ -31,8 +32,9 @@
 <p align="left">💐 We could say that i love everything tech related!
 <br>But, we can focus on:
 <br>🌸 Cybersecurity (isn't all of the security stuff amazing?)
-<br>🏠 Homelabbing and Networking (love tinkering around)
-<br>🌼 PC building (i've spent years researching about so i could build my first PC!)
+<br>🔗 Blockchain & Ethereum Ecosystem (web3 is really interesting)
+<br>🏠 Homelabbing & Networking (love tinkering around)
+<br>🌼 PC building (i've spent years researching about it so i could build my first PC!)
 <br>🌻 Gaming (not only playing!)</p>
 
 ###
