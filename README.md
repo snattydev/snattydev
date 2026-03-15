@@ -22,7 +22,6 @@
 ###
 
 <h2 align="left">🌟​ Interests​</h2>
-###
 
 <img align="right" height="180" src="https://i.imgur.com/YLrvuPY.gif"  />
 
