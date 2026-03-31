@@ -1,6 +1,6 @@
 # 🐼​ Hey! snatty here 🇦🇷 👋 
 
-### 🤔​ About me <img align="right" height="200" src="https://i.imgur.com/ETi5okl.gif"/>
+### 🤔​ About me <img align="right" height="180" src="https://i.imgur.com/ETi5okl.gif"/>
 
 - ⚡ 19 y/o
 - 🌱 Systems Engineering Student
@@ -8,10 +8,10 @@
 - 🪷 Passionate about Problem Solving
 
 ##  🌟​ Currently focusing on
-#### - 🔗  Ethereum Ecosystem
-#### - 🌸  AI Agents 
+#### 🔗  Ethereum Ecosystem
+#### 🌸  AI Agents 
 
-## 💐 Other Interests​
+##  Other Interests​
 
 #### I love everything tech related!
 But, we can focus on:
