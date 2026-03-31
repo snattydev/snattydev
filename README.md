@@ -1,36 +1,22 @@
-<img align="right" height="135" src="https://i.imgur.com/ETi5okl.gif"  />
+# 🐼​ Hey! snatty here 🇦🇷 👋 
 
-###
+### 🤔​ About me <img align="right" height="200" src="https://i.imgur.com/ETi5okl.gif"/>
 
-<h1 align="left">🐼​ Hey! snatty here</h1>
+- ⚡ 19 y/o
+- 🌱 Systems Engineering Student
+- ❤️ Open Source & Descentralization
+- 🪷 Passionate about Problem Solving
 
-###
+##  🌟​ Currently focusing on
+#### - 🔗  Ethereum Ecosystem
+#### - 🌸  AI Agents 
 
-<p align="left">Greetings from 🇦🇷 ! 👋</p>
+## 💐 Other Interests​
 
-###
-
-<h2 align="left">🤔​ About me</h2>
-
-###
-
-<p align="left">⚡ 19 years old
-<br>🌱 I'm currently studying Systems Engineering, because i love learning and solving new problems! I think i'm like this because i selftaught a lot of my prior knowledge 🤓
-<br>❓ FUN FACT, my nickname is a slightly modified anagram of Santi (santi » snati » snatty) 🪷
-<br>❤️ I love Open Source & Descentralization
-
-###
-
-<h2 align="left">🌟​ Interests​</h2>
-
-<img align="right" height="180" src="https://i.imgur.com/YLrvuPY.gif"  />
-
-###
-
-<p align="left">💐 We could say that i love everything tech related!
-<br>But, we can focus on:
-<br>🌸 Cybersecurity - isn't all of the security stuff amazing? o.o
-<br>🔗 Blockchain & Ethereum Ecosystem - web3 is really interesting
-<br>🏠 Homelabbing & Networking - i LOVE tinkering around
-<br>🌼 PC building - i've spent years researching about it so i could build my first PC!
-<br>🌻 Gaming - not only playing if you know what i mean ;)
+#### I love everything tech related!
+But, we can focus on:
+- Cybersecurity (isn't all of the security stuff amazing? o.o)
+- Blockchain & Ethereum Ecosystem (web3 is really interesting)
+- Homelabbing & Networking (i LOVE tinkering around)
+- PC building (i've spent years researching about it so i could build my first PC!)
+- Gaming (not only playing if you know what i mean heh)
