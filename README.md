@@ -10,6 +10,7 @@
 ##  🌟​ Currently focusing on
 #### 🔗  Ethereum Ecosystem
 #### 🌸  AI Agents 
+#### 🔨  Hackathons
 
 ##  Other Interests​
 
@@ -20,3 +21,12 @@ But, we can focus on:
 - Homelabbing & Networking (i LOVE tinkering around)
 - PC building (i've spent years researching about it so i could build my first PC!)
 - Gaming (not only playing if you know what i mean heh)
+
+
+##  Web 3 progress
+
+#### My roadmap
+- Nodo Serrano Member 2025 🥳
+- Devconnect Argentina 2025 🇦🇷
+- EthGLOBAL Argentina 2025 
+- Crecimiento's Hackathon 2026
